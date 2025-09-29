@@ -1,0 +1,15 @@
+Reference list 
+
+Bootstrap (n.d.). Bootstrap (Version 5). [Online]. Available at: https://getbootstrap.com/ (Accessed: 29 September 2025).
+
+Git SCM (n.d.). Git Documentation. [Online]. Available at: https://git-scm.com/doc (Accessed: 29 September 2025).
+
+GitHub (n.d.). GitHub Documentation. [Online]. Available at: https://docs.github.com/ (Accessed: 29 September 2025).
+
+Microsoft Corporation (n.d.)..NET Core Documentation. [Online].Available at: https://dotnet.microsoft.com/ (Accessed: 29 September 2025).
+
+Microsoft Corporation(n.d). Visual Studio IDE. [Online]. Available at: https://visualstudio.microsoft.com/ (Accessed: 29 September 2025).
+
+object Management Group (OMG) Object Management Group (OMG) (2017). UML 2.5.1 Specification. [Online]. Available at: https://www.omg.org/spec/UML/ (Accessed: 29 September 2025).
+
+Microsoft Corporation (n.d.). Microsoft Visio. [Online]. Available at: https://www.microsoft.com/en-us/microsoft-365/visio (Accessed: 29 September 2025).
